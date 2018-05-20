@@ -1,2 +1,3 @@
 # My-Africa
-This is warehouse information of regarding Africa and its countries
+A warehouse proposed to contain growing data/information of All the African Countries.
+Lets try our best to make it useful.
