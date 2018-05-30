@@ -1,0 +1,969 @@
+{
+  "continent": "Africa",
+  "description": "The world's second largest and second most populous continent on earth.",
+  "numberOfCountries": 55,
+  "Area": {
+    "kilometer_square": 30370000,
+    "square_miles": 11730000
+    },
+  "population": 1225080510,
+  "gdp_per_capital_dollars": 1809,
+  "countries": [
+    {
+      "sn": 1,
+      "name": "Algeria",
+      "capital": "Algiers",
+      "region": "North Africa",
+      "president": "Abdelaziz Bouteflika",
+      "resources": [
+        "Petroleum", 
+        "Natural Gas",
+        "Iron Ore", 
+        "Phosphates",
+        "Uranium", 
+        "Lead", 
+        "Zinc"
+      ]
+    },
+     {
+      "sn": 2,
+      "name": "Angola",
+      "capital": "Luanda",
+      "region": "Central Africa",
+      "president": "José Eduardo dos Santos",
+      "resources": [
+        "Petroleum", 
+        "Diamonds",
+        "Iron Ore",
+        "Phosphates",
+        "Copper",
+        "Feldspar",
+        "Gold",
+        "Bauxite",
+        "Uranium"
+      ]
+    },
+    {
+      "sn": 3,
+      "name": "Benin",
+      "capital": "Porto Novo",
+      "region": "West Africa",
+      "president": "Yayi Boni Thomas",
+      "resources": [
+        "Small Offshore Oil Deposits",
+        "Limestone",
+        "Marble", 
+        "Timber"
+      ]
+    },
+   {
+      "sn": 4,
+      "name": "Botswana",
+      "capital": "Gaborone",
+      "region": "South Africa",
+      "president": "Ian Khama",
+      "resources": [
+        "Diamonds",
+        "Copper",
+        "Nickel",
+        "Salt", 
+        "Soda Ash",
+        "Potash",
+        "Coal",
+        "Iron Ore",
+        "Silver" 
+      ]
+    },
+    {
+      "sn": 5,
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "region": "West Africa",
+      "president": "Roch Marc Christian Kabore",
+      "resources": [
+        "Manganese", 
+        "Limestone", 
+        "Marble", 
+        "Small Deposits of Gold",
+        "Phosphates", 
+        "Pumice",
+        "Salt"
+      ]
+    },
+    {
+      "sn": 6,
+      "name": "Burundi",
+      "capital": "Bujumbura",
+      "region": "East Africa",
+      "president": "Pierre Nkurunziza",
+      "resources": [
+       "Nickel", 
+       "Uranium",
+       "Rare Earth Oxides", 
+       "Peat", 
+       "Cobalt", 
+       "Copper", 
+       "Platinum", 
+       "Vanadium", 
+       "Arable Land", 
+       "Hydropower", 
+       "Niobium",
+       "Tantalum", 
+       "Gold", 
+       "Tin", 
+       "Tungsten", 
+       "Kaolin", 
+       "Limestone"
+
+      ]
+    },
+    {
+      "sn": 7,
+      "name": "Cameroon",
+      "capital": "Yaoundé",
+      "region": "Central Africa",
+      "president": "Paul Biya",
+      "resources": [
+        "Petroleum"
+        "Bauxite", 
+        "Iron Ore",
+        "Timber", 
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 8,
+      "name": "Cape Verde",
+      "capital": "Praia",
+      "region": "West Africa",
+      "president": "Jorge Carlos Fonseca",
+      "resources": [
+        "Salt",
+        "Balsalt Rock", 
+        "Limestone", 
+        "Kaolin", 
+        "Fish",
+        "Clay",
+        "Gypsum"
+      ]
+    },
+    {
+      "sn": 9,
+      "name": "Central African Republic",
+      "capital": "Bangui",
+      "region": "Central Africa",
+      "president": "Faustin-Archange Touadera",
+      "resources": [
+         "Diamonds",
+         "Uranium"
+         "Timber", 
+         "Gold",
+         "Oil", 
+         "Hydropower"
+      ]
+    },
+    {
+      "sn": 10,
+      "name": "Chad",
+      "capital": "Ndjamena",
+      "region": "Central Africa",
+      "president": "Idriss Deby Itno",
+      "resources": [
+        "Petroleum", 
+        "Uranium", 
+        "Natron",
+        "Kaolin",
+        "Fish (Lake Chad)", 
+        "Gold",
+        "Limestone", 
+        "Sand and Gravel", 
+        "Salt"
+      ]
+    },
+    {
+      "sn": 11,
+      "name": "Comoros",
+      "capital": "Moroni",
+      "region": "East Africa",
+      "president": "Ikililou Dhoinine",
+      "resources": [
+      	 "Vanilla",
+      	 "Copra", 
+      	 "Bananas", 
+      	 "Fish"
+      ]
+    },
+    {
+      "sn": 12,
+      "name": "Democratic Republic of Congo",
+      "capital": "Kinshasa",
+      "region": "Central Africa",
+      "president": "Joseph Kabila",
+      "resources": [
+        "Cobalt", 
+        "Copper", 
+        "Niobium", 
+        "Tantalum", 
+        "Petroleum", 
+        "Industrial and Gem Diamonds",
+        "Gold", 
+        "Silver", 
+        "Zinc", 
+        "Manganese", 
+        "Tin", 
+        "Uranium", 
+        "Coal", 
+        "Hydropower", 
+        "Timber", 
+        "Arable Land", 
+        "Water"
+      ]
+    },
+    {
+      "sn": 13,
+      "name": "Congo Republic",
+      "capital": "Brazzaville",
+      "region": "Central Africa",
+      "president": "Denis Sassou-Nguesso",
+      "resources": [
+        "Petroleum", 
+        "Timber"
+        "Potash", 
+        "Lead", "Zinc", 
+        "Uranium", 
+        "Copper",
+        "Phosphates", 
+        "Gold", 
+        "Magnesium", 
+        "Natural Gas",
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 14,
+      "name": "Côte d’Ivoir",
+      "capital": "Yamoussoukro",
+      "region": "West Africa",
+      "president": "Alassane Ouattara",
+      "resources": [
+        "Petroleum", 
+        "Natural Gas", 
+        "Diamonds", 
+        "Manganese", 
+        "Iron Ore", 
+        "Cobalt", 
+        "Bauxite", 
+        "Copper", 
+        "Gold", "Nickel",
+        "Tantalum", 
+        "Silica Sand", 
+        "Clay", 
+        "Cocoa", 
+        "Beans", 
+        "Coffee",
+        "Palm Oil", 
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 15,
+      "name": "Djibouti",
+      "capital": "Djibouti",
+      "region": "East Africa",
+      "president": "Ismail Omar Guelleh",
+      "resources": [
+        "Geothermal"
+        "Gold",
+        "Clay",
+        "Granite", 
+        "Limestone",
+        "Marble",
+        "Salt", 
+        "Diatomite",
+        "Gypsum", 
+        "Pumice",
+        "Petroleum"
+      ]
+    },
+    {
+      "sn": 16,
+      "name": "Egypt",
+      "capital": "Cairo",
+      "region": "North Africa",
+      "president": "Abdel Fatah el-Sisi",
+      "resources": [
+          "Petroleum",
+          "Natural Gas", 
+          "Iron Ore", 
+          "Phosphates", 
+          "Manganese", 
+          "Limestone", 
+          "Gypsum", 
+          "Talc", 
+          "Asbestos", 
+          "Lead", 
+          "Zinc"
+      ]
+    },
+    {
+      "sn": 17,
+      "name": "Equatorial Guinea",
+      "capital": "Malabo",
+      "region": "Central Africa",
+      "president": "Teodoro Obiang Nguema Mbasogo",
+      "resources": [
+          "Petroleum", 
+          "Natural Gas",
+           "Timber", 
+           "Gold", 
+           "Bauxite", 
+           "Diamonds", 
+           "Tantalum", 
+           "Sand and Gravel", 
+           "Clay"
+      ]
+    },
+    {
+      "sn": 18,
+      "name": "Eritrea",
+      "capital": "Asmara",
+      "region": "East Africa",
+      "president": "Isaias Afwerki",
+      "resources": [
+          "Potash", 
+          "Gold", 
+          "Zinc", 
+          "Copper", 
+          "Salt", 
+          "Natural Gas"
+          "Oil", 
+          "Fish"
+      ]
+    },
+    {
+      "sn": 19,
+      "name": "Ethiopia",
+      "capital": "Addis Ababa",
+      "region": "East Africa",
+      "president": "Dr Malatu Teshome",
+      "resources": [
+          "Small Reserves of Gold", 
+          "Platinum", 
+          "Copper", 
+          "Potash", 
+          "Natural Gas", 
+          "Hydropower"
+      ]
+    },
+    {
+      "sn": 20,
+      "name": "Gabon",
+      "capital": "Libreville",
+      "region": "Central Africa",
+      "president": "Ali Bongo Ondimba",
+      "resources": [
+          "Petroleum", 
+          "Natural Gas", 
+          "Diamonds", 
+          "Niobium", 
+          "Manganese", 
+          "Uranium", 
+          "Gold", 
+          "Timber", 
+          "Iron Ore", 
+          "Hydropower"
+
+      ]
+    },
+    {
+      "sn": 21,
+      "name": "Gambia",
+      "capital": "Banjul",
+      "region": "West Africa",
+      "president": "Yahya Jammeh",
+      "resources": [
+        "Fish", 
+        "Titanium (Rutile and Ilmenite)", 
+        "Tin", 
+        "Zircon", 
+        "Siliva Sand", 
+        "Clay", 
+        "Petroleum"
+      ]
+    },
+    {
+      "sn": 22,
+      "name": "Ghana",
+      "capital": "Accra",
+      "region": "West Africa",
+      "president": "John Dramani Mahama",
+      "resources": [
+        "Gold", 
+        "Timber", 
+        "Industrial Diamonds", 
+        "Bauxite", 
+        "Manganese", 
+        "Fish", 
+        "Rubber", 
+        "Hydropower", 
+        "Petroleum", 
+        "Silver", 
+        "Salt", 
+        "Limestone"
+      ]
+    },
+    {
+      "sn": 23,
+      "name": "Guinea",
+      "capital": "Conakry",
+      "region": "West Africa",
+      "president": "Alpha Conde",
+      "resources": [
+        "Bauxite", 
+        "Iron Ore", 
+        "Diamonds", 
+        "Gold", 
+        "Uranium", 
+        "Hydropower", 
+        "Fish", 
+        "Salt"
+      ]
+    },
+    {
+      "sn": 24,
+      "name": " Guinea Bissau",
+      "capital": "Bissau",
+      "region": "West Africa",
+      "president": "José Mario Vaz",
+      "resources": [
+        "Fish", 
+        "Timber", 
+        "Phosphates", 
+        "Bauxite", 
+        "Clay", 
+        "Granite", 
+        "Limestone", 
+        "Petroleum"
+      ]
+    },
+    {
+      "sn": 25,
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "region": "East Africa",
+      "president": "Uhuru Kenyatta",
+      "resources": [
+        "Limestone", 
+        "Soda Ash", 
+        "Salt", 
+        "Gemstones", 
+        "Fluorspar", 
+        "Zinc", 
+        "Diatomite",
+        "Gypsum", 
+        "Wildlife", 
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 26,
+      "name": "Lesotho",
+      "capital": "Maseru",
+      "region": "South Africa",
+      "president": "Pakalitha Mosisili",
+      "resources": [
+        "Water", 
+        "Agricultural and Grazing Land", 
+        "Diamonds", 
+        "Sand", 
+        "Clay", 
+        "Building Stone"
+      ]
+    },
+    {
+      "sn": 27,
+      "name": "Liberia",
+      "capital": "Monrovia",
+      "region": "West Africa",
+      "president": "Ellen Johnson Sirleaf",
+      "resources": [
+        "Iron Ore", 
+        "Timber", 
+        "Diamonds", 
+        "Gold", 
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 28,
+      "name": "Libya",
+      "capital": "Tripoli",
+      "region": "North Africa",
+      "president": "Dr Mohammed Yusuf Al-Magariat",
+      "resources": [
+        "Petroleum", 
+        "Natural Gas", 
+        "Gypsum"
+      ]
+    },
+    {
+      "sn": 29,
+      "name": "Madagascar",
+      "capital": "Antananarivo",
+      "region": "East Africa",
+      "president": "Heryl Rajaonaripampianina",
+      "resources": [
+        "Graphite", 
+        "Chromite", 
+        "Coal", 
+        "Bauxite", 
+        "Salt", 
+        "Quartz", 
+        "Tar Sands", 
+        "Semiprecious Stones", 
+        "Mica", 
+        "Fish", 
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 30,
+      "name": "Malawi",
+      "capital": "Lilongwe",
+      "region": "East Africa",
+      "president": "Peter Mutarika",
+      "resources": [
+        "Limestone", 
+        "Arable Land", 
+        "Hydropower", 
+        "Uranium", 
+        "Coal",  
+        "Bauxite"
+      ]
+    },
+    {
+      "sn": 31,
+      "name": "Mali",
+      "capital": "Bamako",
+      "region": " West Africa",
+      "president": "Ibrahim Boubacar Keita",
+      "resources": [
+        "Gold", 
+        "Phosphates", 
+        "Kaolin", 
+        "Salt", 
+        "Limestone", 
+        "Uranium", 
+        "Gypsum", 
+        "Granite", 
+        "Hydropower", 
+        "Bauxite", 
+        "Iron Ore", 
+        "Manganese", 
+        "Tin", 
+        "Copper"
+        
+      ]
+    },
+    {
+      "sn": 32,
+      "name": "Mauritania",
+      "capital": "Nouakchott",
+      "region": "West Africa",
+      "president": "Mohamed Ould Abdel Aziz",
+      "resources": [
+         "Iron Ore", 
+         "Gypsum", 
+         "Copper", 
+         "Phosphate", 
+         "Diamonds", 
+         "Gold", 
+         "Oil", 
+         "Fish"
+      ]
+    },
+    {
+      "sn": 33,
+      "name": "Mauritius",
+      "capital": "Port Louis",
+      "region": "East Africa",
+      "president": "Ameenah Gurib",
+      "resources": [
+         "Arable Land", 
+         "Fish"
+      ]
+    },
+    {
+      "sn": 34,
+      "name": "Morocco",
+      "capital": "Rabat",
+      "region": "North Africa",
+      "president": "Mohammed VI of Morocco",
+      "resources": [
+          "Phosphates", 
+          "Iron Ore", 
+          "Manganese", 
+          "Lead", 
+          "Zinc", 
+          "Fish", 
+          "Salt"
+      ]
+    },
+    {
+      "sn": 35,
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "region": "East Africa",
+      "president": "Filipe Nyusi",
+      "resources": [
+         "Coal", 
+         "Titanium", 
+         "Natural Gas", 
+         "Hydropower", 
+         "Tantalum", 
+         "Graphite"
+      ]
+    },
+    {
+      "sn": 36,
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "region": "South Africa",
+      "president": "Hage Geingob",
+      "resources": [
+         "Diamonds",
+         "Copper", 
+         "Uranium", 
+         "Gold", 
+         "Silver", 
+         "Lead", 
+         "Tin", 
+         "Lithium", 
+         "Cadmium", 
+         "Tungsten", 
+         "Zinc", 
+         "Salt", 
+         "Hydropower", 
+         "Fish", 
+         "Coal", 
+         "Oil", 
+         "Iron Ore"
+      ]
+    },
+    {
+      "sn": 37,
+      "name": "Niger",
+      "capital": "Niamey",
+      "region": "West Africa",
+      "president": "Mahamadou Issoufou",
+      "resources": [
+         "Uranium", 
+         "Coal", 
+         "Iron Ore", 
+         "Tin", 
+         "Phosphates", 
+         "Gold", 
+         "Molybdenum", 
+         "Gypsum", 
+         "Salt", 
+         "Petroleum"
+      ]
+    },
+    {
+      "sn": 38,
+      "name": "Nigeria",
+      "capital": "Abuja",
+      "region": "West Africa",
+      "president": "Muhammadu Buhari",
+      "resources": [
+         "Natural Gas", 
+         "Petroleum", 
+         "Tin", 
+         "Iron Ore", 
+         "Coal", 
+         "Limestone", 
+         "Niobium", 
+         "Lead", 
+         "Zinc", 
+         "Arable Land"
+      ]
+    },
+    {
+      "sn": 39,
+      "name": "Rwanda",
+      "capital": "Kigali",
+      "region": "East Africa",
+      "president": "Paul Kagame",
+      "resources": [
+         "Gold", 
+         "Cassiterite (Tin Ore)", 
+         "Wolframite (Tungsten Ore)", 
+         "Methane", 
+         "Hydropower", 
+         "Arable Land"
+      ]
+    },
+    {
+      "sn": 40,
+      "name": "Republic Arab Sahrawi",
+      "capital": "Aauin",
+      "region": "Central Africa",
+      "president": "Mohamed Abdelaziz",
+      "resources": [
+
+      ]
+    },
+    {
+      "sn": 41,
+      "name": "Sao Tome and Principe",
+      "capital": "Sao Tome",
+      "region": "Central Africa",
+      "president": "Manuel Pinto da Costa",
+      "resources": [
+         "Fish", 
+         "Hydropower"
+      ]
+    },
+    {
+      "sn": 42,
+      "name": "Senegal",
+      "capital": "Dakar",
+      "region": "West Africa",
+      "president": "Macky Sall",
+      "resources": [
+         "Fish", 
+         "Phosphates", 
+         "Iron Ore"
+      ]
+    },
+    {
+      "sn": 43,
+      "name": "Seychelles",
+      "capital": "Victoria",
+      "region": "East Africa",
+      "president": "James Michel",
+      "resources": [
+         "Fish", 
+         "Copra", 
+         "Cinnamon",
+         "Trees"
+      ]
+    },
+    {
+      "sn": 44,
+      "name": "Sierra Leone",
+      "capital": "Freetown",
+      "region": "West Africa",
+      "president": "Ernest Bai Koroma",
+      "resources": [
+         "Diamonds", 
+         "Titanium Ore", 
+         "Bauxite", 
+         "Iron Ore", 
+         "Gold", 
+         "Chromite"
+      ]
+    },
+    {
+      "sn": 45,
+      "name": "Somalia",
+      "capital": "Mogadishu",
+      "region": "East Africa",
+      "president": "Hassan Sheikh Mohamoud",
+      "resources": [
+         "Uranium", 
+         "Iron Ore", 
+         "Tin", 
+         "Gypsum", 
+         "Bauxite", 
+         "Copper", 
+         "Salt", 
+         "Natural Gas",
+         "Oil"
+      ]
+    },
+    {
+      "sn": 46,
+      "name": "South Africa",
+      "capital": "Pretoria(executive), Bloemfontein(judiciary) & Capetown(legislative)",
+      "region": "South Africa",
+      "president": "Jacob Zuma",
+      "resources": [
+        "Gold", 
+        "Chromium", 
+        "Antimony", 
+        "Coal", 
+        "Iron Ore", 
+        "Manganese", 
+        "Nickel", 
+        "Phosphates", 
+        "Tin", 
+        "Uranium", 
+        "Gem Diamonds", 
+        "Platinum", 
+        "Copper",
+         "Vanadium", 
+         "Salt", 
+         "Natural Gas" 
+      ]
+    },
+    {
+      "sn": 47,
+      "name": "South Sudan",
+      "capital": "Juba",
+      "region": "North Africa",
+      "president": "Salva Kiir Mayardit",
+      "resources": [
+        "Petroleum", 
+        "Iron Ore, Copper", 
+        "Chromium Ore",  
+        "Zinc", 
+        "Tungsten", 
+        "Mica", 
+        "Silver", 
+        "Gold", 
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 48,
+      "name": "Sudan",
+      "capital": "Khartoum",
+      "region": "North Africa",
+      "president": "Omar Hassan Ahmad Al-Bashir",
+      "resources": [
+        "Petroleum", 
+        "Iron Ore, Copper", 
+        "Chromium Ore",  
+        "Zinc", 
+        "Tungsten", 
+        "Mica", 
+        "Silver", 
+        "Gold", 
+        "Hydropower"
+      ]
+    },
+    {
+      "sn": 49,
+      "name": "Swaziland",
+      "capital": "Lobamba(royal & legislature), and Mbabane(administrative)",
+      "region": "South Africa",
+      "president": "Prince Makoshetive Dlamini(MSWATI III)",
+      "resources": [
+        "Asbestos",
+        "Coal", 
+        "Clay", 
+        "Cassiterite", 
+        "Hydropower", 
+        "forests", 
+        "Gold", 
+        "Diamonds", 
+        "Quarry Stone", 
+        "Talc"
+      ]
+    },{
+      "sn": 50,
+      "name": "Tanzania",
+      "capital": "Dar es Salaam(traditional capital) and Dodoma(location of legislature)",
+      "region": " East Africa",
+      "president": "John Magufuli",
+      "resources": [
+        "Tanzanite", 
+        "Gemstones", 
+        "Hydropower", 
+        "Tin", 
+        "Phosphates", 
+        "Iron Ore", 
+        "Coal", 
+        "Diamonds", 
+        "Gold", 
+        "Natural Gas", 
+        "Nickel"
+
+      ]
+    },
+
+    {
+      "sn": 51,
+      "name": "Togo",
+      "capital": "Lome",
+      "region": "West Africa",
+      "president": "Faure Gnassingbe",
+      "resources": [
+        "Phosphates", 
+        "Limestone", 
+        "Marble", 
+        "Arable Land"
+      ]
+    },
+    {
+      "sn": 52,
+      "name": "Tunisia",
+      "capital": "Tunis",
+      "region": "North Africa",
+      "president": "Beji Caid Essebsi",
+      "resources": [
+        "Petroleum", 
+        "Phosphates", 
+        "Iron Ore", 
+        "Lead", 
+        "Zinc", 
+        "Salt"
+      ]
+    },
+    {
+      "sn": 53,
+      "name": "Uganda",
+      "capital": "Kampala",
+      "region": "East Africa",
+      "president": "Yoweri Museveni",
+      "resources": [ 
+        "Copper", 
+        "Cobalt", 
+        "Hydropower", 
+        "Limestone", 
+        "Salt", 
+        "Arable Land", 
+        "Gold"
+      ]
+    },
+    {
+      "sn": 54,
+      "name": "Zambia",
+      "capital": "Lusaka",
+      "region": "East Africa",
+      "president": "Edgar Lungu",
+      "resources": [
+         "Copper", 
+         "Cobalt", 
+         "Zinc", 
+         "Lead", 
+         "Coal", 
+         "Emeralds", 
+         "Gold", 
+         "Silver", 
+         "Uranium", 
+         "Hydropower"
+      ]
+    },
+    
+    {
+      "sn": 55,
+      "name": "Zimbabwe",
+      "capital": "Harare",
+      "region": "East Africa",
+      "president": "Emmerson Mnangagwa",
+      "resources": [
+         "coal", 
+         "platinum",
+         "asbestos", 
+         "copper", 
+         "nickel", 
+         "gold", 
+         "iron ore"
+         "maize",
+         "tobacco",
+         "chromium ore"
+      ]
+    }
+     
